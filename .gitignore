@@ -1,0 +1,4 @@
+service/echo.pb.go
+service/echo.swagger.json
+service/echo.pb.gw.go
+grpcgw-echo
